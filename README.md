@@ -1,54 +1,112 @@
-# Hi, I'm Sayantan Maji
+# 👨‍💻 Sayantan Maji
 
-Computer Science student at Haldia Institute of Technology, focused on building reliable full-stack web applications.
+### Full-Stack Engineer | Backend Systems | Scalable Web Architectures
 
-## About
-
-- Building production-style web systems with strong API design and backend fundamentals.
-- Strong interest in frontend engineering, scalable backend architecture, and applied generative AI.
-- Looking to collaborate on impactful developer tools and web platforms.
-
-## Current Focus
-
-- API rate limiting systems (authentication, caching, throttling, observability).
-- Real-world full-stack products with clean architecture.
-- Improving software quality through testing, CI/CD, and code standards.
-
-## Featured Projects
-
-| Project | What it does | Stack | Live Demo |
-| --- | --- | --- | --- |
-| API Rate Limiter | Full-stack API rate limiting system with auth, Redis caching, and request throttling. | Node.js, Express, Redis, JavaScript | [Open](https://sayantanmaji2005.github.io/api-rate-limiter/) |
-| Influencer & Brand Collaboration Platform | Platform connecting brands and influencers for campaign management workflows. | MERN Stack | [Open](https://ibcpapp-web.onrender.com/) |
-| Online Book Store | Full-stack e-commerce style application for discovering and buying books. | MERN Stack, MySQL | [Open](https://bookstore-iota-three.vercel.app/) |
-
-## Tech Stack
-
-**Languages**: JavaScript, Java, Python, C++  
-**Frontend**: React, HTML5, CSS3  
-**Backend**: Node.js, Express.js  
-**Databases**: MongoDB, MySQL, Redis  
-**Tools**: Docker, Git, Linux
-
-## GitHub Insights
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sayantanmaji2005&show_icons=true&hide_border=true" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayantanmaji2005&layout=compact&hide_border=true" alt="Top languages" height="160" />
-</p>
-
-## Contribution Graph
-
-<p>
-  <img src="https://github.com/sayantanmaji2005/sayantanmaji2005/blob/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
-</p>
-
-## Connect
-
-- LinkedIn: [sayantan-maji-576914311](https://linkedin.com/in/sayantan-maji-576914311)
-- Instagram: [itz.sayan.20](https://instagram.com/itz.sayan.20)
-- Topcoder: [721160](https://www.topcoder.com/members/721160)
-- Email: [sayantanmaji2005@gmail.com](mailto:sayantanmaji2005@gmail.com)
+> Building high-performance, production-grade web applications with a focus on scalability, reliability, and clean architecture.
 
 ---
-Building software with a focus on performance, maintainability, and user impact.
+
+## 🧠 About Me
+
+I am a Computer Science student at **Haldia Institute of Technology**, specializing in designing and developing **robust full-stack systems**.
+
+- ⚙️ Strong foundation in **backend engineering & API design**
+- 🧩 Focused on **scalable system architecture & distributed systems**
+- 🎯 Passionate about **performance optimization & clean code practices**
+- 🤖 Exploring **Generative AI integration in real-world applications**
+
+---
+
+## 🔥 Current Focus
+
+- 🚀 Designing **rate limiting & traffic control systems**
+- 🔐 Authentication systems (JWT, API Keys, Role-based access)
+- ⚡ Backend optimization using **Redis caching & queues**
+- 🧪 Writing **testable, production-ready code (CI/CD pipelines)**
+
+---
+
+## 🧩 Featured Projects
+
+### 🚦 API Rate Limiter System
+> Production-grade rate limiting system with authentication and analytics
+
+- Token-based authentication (JWT + API Key)
+- Redis-powered caching & throttling
+- Tier-based rate limiting
+- Monitoring dashboard
+
+🔗 Live: https://sayantanmaji2005.github.io/api-rate-limiter/
+
+---
+
+### 🤝 Influencer & Brand Collaboration Platform
+> End-to-end campaign management platform
+
+- Campaign workflows & collaboration tools
+- RESTful APIs with MERN architecture
+- Real-time interaction features
+
+🔗 Live: https://ibcpapp-web.onrender.com/
+
+---
+
+### 📚 Online Book Store
+> Full-stack e-commerce platform for book discovery & purchase
+
+- Secure authentication & cart system
+- Database design using MySQL + MongoDB
+- Responsive UI & scalable backend
+
+🔗 Live: https://bookstore-iota-three.vercel.app/
+
+---
+
+## ⚙️ Tech Stack
+
+### 💻 Languages
+`JavaScript` `Java` `Python` `C++`
+
+### 🎨 Frontend
+`React.js` `HTML5` `CSS3`
+
+### 🛠 Backend
+`Node.js` `Express.js`
+
+### 🗄 Databases
+`MongoDB` `MySQL` `Redis`
+
+### 🔧 Tools & DevOps
+`Docker` `Git` `Linux`
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sayantanmaji2005&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayantanmaji2005&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/sayantanmaji2005/sayantanmaji2005/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/sayantan-maji-576914311
+- 📸 Instagram: https://instagram.com/itz.sayan.20
+- 🏆 Topcoder: https://www.topcoder.com/members/721160
+- 📧 Email: sayantanmaji2005@gmail.com
+
+---
+
+## ⚡ Engineering Philosophy
+
+> "Build systems that scale, code that lasts, and products that matter."
